@@ -1,4 +1,4 @@
-# Caculator
+# Triangles
 
 #### By Aidan Portwood
 
